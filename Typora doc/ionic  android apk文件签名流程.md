@@ -4,7 +4,7 @@ app签名，相当于是app在Anndroid系统上的一个认证，Android系统�
 
 > 默认的 debug.keystore 位置如下：
 >
-> 
+> //https:////upload-images.jianshu.io/upload_images/3744244-8e5a04cf11ddd80e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp
 >
 > ![img](https:////upload-images.jianshu.io/upload_images/3744244-8e5a04cf11ddd80e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
 >

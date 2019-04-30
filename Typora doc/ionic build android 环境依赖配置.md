@@ -2,7 +2,7 @@
 
 ---
 
-![1555925994276](C:\Users\thinkpad\AppData\Roaming\Typora\typora-user-images\1555925994276.png)
+![1555925994276](https://github.com/buibuiKun/ionic-4-configuration/imgs/1555925994276.png)
 
 
 
