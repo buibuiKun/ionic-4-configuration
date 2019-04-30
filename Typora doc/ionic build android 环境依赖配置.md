@@ -32,8 +32,4 @@ var distributionUrl = process.env['CORDOVA_ANDROID_GRADLE_DISTRIBUTION_URL'] || 
 
 手动下载  gradle-4.10.3-all.zip  文件压缩包于当前目录下用于   var distributionUrl = process.env['CORDOVA_ANDROID_GRADLE_DISTRIBUTION_URL'] || '../gradle-4.10.3-all.zip';   语句加载，防止墙下载不了
 
-<<<<<<< HEAD
 ![1555927241011](../imgs/1555927241011.png)
-=======
-![1555927241011](C:\Users\thinkpad\AppData\Roaming\Typora\typora-user-images\1555927241011.png)
->>>>>>> 190cc4152ef71580a45164066f4a7931c0a96ce2
