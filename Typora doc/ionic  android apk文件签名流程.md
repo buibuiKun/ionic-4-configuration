@@ -4,7 +4,6 @@ app签名，相当于是app在Anndroid系统上的一个认证，Android系统�
 
 > 默认的 debug.keystore 位置如下：
 >
-> //https:////upload-images.jianshu.io/upload_images/3744244-8e5a04cf11ddd80e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp
 >
 > ![img](https:////upload-images.jianshu.io/upload_images/3744244-8e5a04cf11ddd80e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
 >
@@ -143,7 +142,7 @@ zmjj.apk zmjj_aligned.apk 表示对已签名文件 zmjj.apk进行优化，优化
 
 
 
-![1556590906367](C:\Users\thinkpad\AppData\Roaming\Typora\typora-user-images\1556590906367.png)
+![1556590906367](../imgs/1556590906367.png)
 
 
 
@@ -151,4 +150,4 @@ zmjj.apk zmjj_aligned.apk 表示对已签名文件 zmjj.apk进行优化，优化
 
 打包出错可用android studio 打包
 
-![1556594876753](C:\Users\thinkpad\AppData\Roaming\Typora\typora-user-images\1556594876753.png)
+![1556594876753](../imgs/1556594876753.png)

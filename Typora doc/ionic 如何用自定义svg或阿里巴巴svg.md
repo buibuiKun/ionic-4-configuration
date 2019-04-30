@@ -1,6 +1,6 @@
-![1556519907873](C:\Users\thinkpad\AppData\Roaming\Typora\typora-user-images\1556519907873.png)
+![1556519907873](../imgs/1556519907873.png)
 
-![1556519970700](C:\Users\thinkpad\AppData\Roaming\Typora\typora-user-images\1556519970700.png)
+![1556519970700](../imgs/1556519970700.png)
 
 
 
